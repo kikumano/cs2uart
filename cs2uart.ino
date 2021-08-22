@@ -2,6 +2,8 @@
 //convert cyberstick data to serial
 //for attiny2313 @8mhz
 
+//depend on https://github.com/kikumano/PicoSerial
+
 //recieve data from cyberstick
 //send 8byte data to serial
 //data format: digispark hid joystick
